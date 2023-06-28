@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Plasmidprofiler"]
 	path = Plasmidprofiler
 	url = https://github.com/cran/Plasmidprofiler
-	shallow = true
-	registered = true
